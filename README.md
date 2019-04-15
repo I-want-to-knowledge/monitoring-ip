@@ -5,4 +5,4 @@
 `2.1 去redis取ip，进行限制；`
 
 # 3、运行原理
-``
+`参照‘Ip_black_list.xlsx’文件`
